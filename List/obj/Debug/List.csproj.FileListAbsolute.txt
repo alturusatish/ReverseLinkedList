@@ -1,0 +1,14 @@
+C:\Satish\Practice\GitHub Projects\ReverseLinkedList\List\obj\Debug\List.csprojAssemblyReference.cache
+C:\Satish\Practice\GitHub Projects\ReverseLinkedList\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Satish\Practice\GitHub Projects\ReverseLinkedList\List\bin\Debug\List.exe.config
+C:\Satish\Practice\GitHub Projects\ReverseLinkedList\List\bin\Debug\List.exe
+C:\Satish\Practice\GitHub Projects\ReverseLinkedList\List\bin\Debug\List.pdb
+C:\Satish\Practice\GitHub Projects\ReverseLinkedList\List\obj\Debug\List.exe
+C:\Satish\Practice\GitHub Projects\ReverseLinkedList\List\obj\Debug\List.pdb
+C:\Github\ReverseLinkedList\List\bin\Debug\List.exe.config
+C:\Github\ReverseLinkedList\List\bin\Debug\List.exe
+C:\Github\ReverseLinkedList\List\bin\Debug\List.pdb
+C:\Github\ReverseLinkedList\List\obj\Debug\List.csprojAssemblyReference.cache
+C:\Github\ReverseLinkedList\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Github\ReverseLinkedList\List\obj\Debug\List.exe
+C:\Github\ReverseLinkedList\List\obj\Debug\List.pdb
